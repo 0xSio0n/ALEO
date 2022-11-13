@@ -36,7 +36,7 @@
 
     snarkos account new
     
-<b>REMINDER!! Jangan Lupa Simpan Account Kalian</b
+<b>REMINDER!! Jangan Lupa Simpan Account Kalian</b>
 
 ## Run Prover
 
